@@ -7,11 +7,11 @@ Many marching bands are great but few are as well known as _Marching Mizzou_.
 
 **_Fun facts about Marching Mizzou_**:
 
-*[Travel Internationally](
+*[Travel Internationally](https://github.com/ret99d/final-project/blob/main/internation%20travel.md)
 
 *Play at football games
 
-*Travel for many athletic conferences
+*Travel for many athletic conferences (also check out: Bowl Ban)
 
 [M2][Marching Mizzou]
 
