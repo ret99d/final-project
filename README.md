@@ -12,9 +12,9 @@ Many marching bands are great but few are as well known as _Marching Mizzou_.
 
 *Travel for many athletic conferences
 
-[M2][Marching Mizzou]
+###[M2][Marching Mizzou]
 
-Marching Mizzou is a great and well known organization. It is also known as M2. M2 prides itself on traditions and standards.
+Marching Mizzou is a great and well known organization. It is also known as M2. M2 prides itself on traditions and standards. The audition process to get into marching mizzou is not that rigerous nor is it highly selective. If you want to work hard and play hard, you will have not problems joining the ranks of the best band in the land. 
 
 M2's New Look: [Uniforms](https://en.wikipedia.org/wiki/Marching_Mizzou#/media/File:Marching_Mizzou_Mockup_Stanbury_Uniform_2018.svg)
 
