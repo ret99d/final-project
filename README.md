@@ -1,7 +1,7 @@
 # final-project
-The one thing I like more than coding is doing band things.
+The one thing I like more than coding is doing [band things](https://github.com/ret99d/final-project/blob/main/band%20things.md).
 
-**My** final project will be a page about marching band
+**My** final project will be a page about marching band.
 
 Many marching bands are great but few are as well known as _Marching Mizzou_.
 
