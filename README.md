@@ -6,7 +6,8 @@ The one thing I like more than coding is doing band things.
 Many marching bands are great but few are as well known as _Marching Mizzou_.
 
 **_Fun facts about Marching Mizzou_**:
-*Travel Internationally
+
+*[Travel Internationally](
 
 *Play at football games
 
