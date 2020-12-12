@@ -11,7 +11,7 @@ Many marching bands are great but few are as well known as _Marching Mizzou_.
 
 *Play at football games
 
-*Travel for many athletic conferences (also check out: Bowl Ban)
+*Travel for many athletic conferences (also check out: [Bowl Ban](https://github.com/ret99d/final-project/blob/main/bowl%20ban.md))
 
 [M2][Marching Mizzou]
 
